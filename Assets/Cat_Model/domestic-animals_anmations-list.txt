@@ -1,0 +1,20 @@
+animals animations:
+
+0 - 5  stand_pose
+10 - 160  idle_01
+170 - 400  idle_02
+410 - 710  idle_03
+720 - 890  idle_eat
+900 - 940  walk
+950 - 1000  walk_back
+1010 - 1030  run_fast
+1070 - 1110  turn_right
+1120 - 1160  turn_left
+1170 - 1250  death
+1260 - 1300  attack_01
+1300 - 1360  attack_02
+1360 - 1420  butting_heads
+1420 - 1460  roar
+1470 - 1570  injured
+1580 - 1700  surprised
+1710 - 1810  sleep
